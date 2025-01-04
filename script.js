@@ -107,7 +107,6 @@ const locations = [
     { category: "US", name: "Estus Shard - under burning tree" },
     { category: "US", name: "Loretta's Bone - first building, hanging corpse on balcony" },
     { category: "US", name: "Flame Stoneplate Ring - hanging corpse by Mound-Maker transport" },
-    { category: "US", name: "Mound-makers - Hodrick" },
     { category: "RS", name: "Soul of a Crystal Sage" },
     { category: "RS", name: "Estus Shard - left of fire behind stronghold left room" },
     { category: "RS", name: "Great Swamp Pyromancy Tome - deep water" },
