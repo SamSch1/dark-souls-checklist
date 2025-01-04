@@ -119,7 +119,6 @@ const locations = [
     { category: "CD", name: "Poisonbite Ring - moat, hall past miniboss" },
     { category: "CD", name: "Estus Shard - monument outside Cleansing Chapel" },
     { category: "CD", name: "Lloyd's Sword Ring - ledge above main hall south" },
-    { category: "CD", name: "Saint-tree Bellvine - moat, by water" },
     { category: "CD", name: "Deep Braille Divine Tome - mimic by side chapel" },
     { category: "CD", name: "Aldrich's Sapphire - side chapel, miniboss drop" },
     { category: "FK", name: "Soul of the Blood of the Wolf" },
