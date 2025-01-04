@@ -109,7 +109,7 @@ const locations = [
     { category: "US", name: "Flame Stoneplate Ring - hanging corpse by Mound-Maker transport" },
     { category: "RS", name: "Soul of a Crystal Sage" },
     { category: "RS", name: "Estus Shard - left of fire behind stronghold left room" },
-    { category: "RS", name: "Great Swamp Pyromancy Tome - deep water" },
+    { category: "RS", name: "Great Swamp Pyromancy Tome - deep water near miniboss" },
     { category: "RS", name: "Farron Coal - keep perimeter" },
     { category: "RS", name: "Great Swamp Ring - miniboss drop, by Farron Keep" },
     { category: "CD", name: "Small Doll - boss drop" },
