@@ -75,7 +75,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
 const locations = [
    { category: "CA", name: "Coiled Sword - boss drop" },
-    { category: "FS", name: "East-West Shield - tree by shrine entrance" },
     { category: "FS", name: "White Sign Soapstone - shop" },
     { category: "FS", name: "Dried Finger - shop" },
     { category: "FS", name: "Tower Key - shop" },
